@@ -14,7 +14,7 @@ class CustomTitleBar(QWidget):
         self.setLayout(layout)
         
         # Title label
-        self.title_label = QLabel("PCInsight")
+        self.title_label = QLabel("HWInsight")
         self.title_label.setStyleSheet("font-size: 14px;")
         layout.addWidget(self.title_label)
         
