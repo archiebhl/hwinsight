@@ -1,6 +1,6 @@
 # HWInsight
 
-A program to monitor real-time sensor data of PC components with a clean and modern GUI.  
+A program to monitor real-time sensor data of PC components, with a focus on emphasising frquently useful metrics in a clean and modern GUI.   
 
 ![](https://github.com/archiebhl/hwinsight/blob/master/gui.png?raw=true)
 
