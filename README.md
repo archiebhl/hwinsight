@@ -30,7 +30,7 @@ NOTE: CPU temperature readings will not work without administrator privileges.
 
 3. **Run**
 
-`dotnet build`
+`dotnet build` on the first run.
 
 `python main.py`
 
