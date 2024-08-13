@@ -1,0 +1,24 @@
+/* resources/style.qss */
+
+QWidget {
+    background-color: #121212;
+    color: #E0E0E0;
+    font-family: 'Segoe UI Variable';
+    /*font-size: 12pt;*/
+}
+
+QGroupBox {
+    border: 1px solid #121212;  
+    margin-top: 20px;
+}
+
+QGraphicsView {
+    border: 1px solid #121212;  
+}
+
+
+QGroupBox::title {
+    subcontrol-origin: margin;
+    subcontrol-position: top left;
+
+}

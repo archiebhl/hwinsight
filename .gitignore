@@ -1,0 +1,30 @@
+ 
+# Python cache directories
+__pycache__/
+
+# VS Code settings and workspace files
+.vs/
+
+# Build directories and artifacts
+bin/
+build/
+dist/
+obj/
+
+# Virtual environment directory
+venv/
+
+# Compiled files
+*.spec
+*.sln
+*.csproj
+
+# IDE specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Other files
+logo.ico
+data.txt
