@@ -39,7 +39,7 @@ NOTE: CPU temperature readings will not work without administrator privileges.
 
 3. **Run**
 
-`dotnet run --project DataCollector.csproj`
+`dotnet build`
 
 `python main.py`
 
