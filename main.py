@@ -30,7 +30,7 @@ class MainWindow(QMainWindow):
         self.setWindowFlags(Qt.WindowType.FramelessWindowHint)  # remove default title bar
         self.setMenuWidget(CustomTitleBar(self))
 
-        self.setWindowTitle("PCInsight")
+        self.setWindowTitle("HWInsight")
         WINDOW_HEIGHT = 800
         WINDOW_WIDTH = 1200
         self.setGeometry(100, 100, WINDOW_WIDTH, WINDOW_HEIGHT)
