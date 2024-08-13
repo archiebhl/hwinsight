@@ -24,7 +24,7 @@ NOTE: CPU temperature readings will not work without administrator privileges.
   - PyQt6
   - pyqtgraph
   - pglive
-  - LibreHardwareMonitor (for backend)
+  - LibreHardwareMonitor
 
 ### Steps
 1. **Clone the Repository**
