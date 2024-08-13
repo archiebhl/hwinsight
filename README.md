@@ -4,12 +4,6 @@ A real-time system monitoring tool that provides detailed insights into your CPU
 
 ![](https://github.com/archiebhl/hwinsight/blob/master/gui.png?raw=true)
 
-## Features
-
-- **Real-time Monitoring**: Obtains information from various CPU and GPU sensors to enable real-time monitoring.
-- **Customizable UI**: A more modernised GUI to monitor this data. 
-- **Data Logging**: Logs system performance data to a text file for future analysis.
-
 ## Running executable
 1. Download the relevant release.
 2. Unzip the file into a single folder and run HWInsight.exe as administrator.
