@@ -1,6 +1,6 @@
 # HWInsight
 
-A real-time system monitoring tool that provides detailed insights into your CPU and GPU performance metrics. It utilixes `LibreHardwareMonitor` to collect data and PyQt6 for the GUI, offering a user-friendly and visually appealing interface.
+A real-time system monitoring tool that provides detailed insights into your CPU and GPU performance metrics. It utilises `LibreHardwareMonitor` to collect data and PyQt6 for the GUI, offering a user-friendly and visually appealing interface.
 
 ![](https://github.com/archiebhl/hwinsight/blob/master/gui.png?raw=true)
 
