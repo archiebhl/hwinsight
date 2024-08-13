@@ -13,12 +13,12 @@ NOTE: CPU temperature readings will not work without administrator privileges.
 ## Building from source
 ### Prerequisites
 
-- **.NET SDK** (for backend data collection)
-- **Python 3.x** with the following libraries:
+- **.NET SDK**
+  - LibreHardwareMonitor
+- **Python 3.x** 
   - PyQt6
   - pyqtgraph
   - pglive
-  - LibreHardwareMonitor
 
 ### Steps
 1. **Clone the Repository**
