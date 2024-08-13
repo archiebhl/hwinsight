@@ -28,14 +28,19 @@ NOTE: CPU temperature readings will not work without administrator privileges.
 
 ### Steps
 1. **Clone the Repository**
+
 `git clone https://github.com/archiebhl/hwinsight.git`
+
 `cd hwinsight`
 
 2. **Install Python dependencies**
+
 `pip install -r requirements.txt`
 
 3. **Run**
+
 `dotnet run --project DataCollector.csproj`
+
 `python main.py`
 
 ## Contributing
