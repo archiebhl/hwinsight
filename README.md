@@ -16,9 +16,6 @@ NOTE: CPU temperature readings will not work without administrator privileges.
 - **.NET SDK**
   - LibreHardwareMonitor
 - **Python 3.x** 
-  - PyQt6
-  - pyqtgraph
-  - pglive
 
 ### Steps
 1. **Clone the Repository**
